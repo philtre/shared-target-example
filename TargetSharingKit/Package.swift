@@ -61,7 +61,6 @@ let package = Package(
         .target(
             name: "Testing",
             dependencies: [
-                "Environment",
             ],
             path: "Testing/Sources"
         ),

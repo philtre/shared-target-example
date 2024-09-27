@@ -6,7 +6,6 @@
 //
 
 import XCTest
-import Environment
 
 extension XCTestCase {
     public static var uiTestLaunchArgument: String {
